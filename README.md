@@ -1,33 +1,6 @@
  
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩11ꫂ<br></h1>
-<p align="center">
-<img src="https://i.ibb.co/RC7JWDj/e258b5ae2b1cf8195d33743570dbe498.jpg" />
-</p>
-
-<p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
-
-<p align="center">
-<a href="https://youtu.be/L_SIk59QeAU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
-
-------
-
-# ```Bot Info```
-<p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD11?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD11?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD11?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD11?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD11&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
+<h1 align="center">Frieren<br></h1>
 
 -------
 
@@ -40,25 +13,8 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 <a href="https://www.instagram.com/unicorn_xeon13?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
-## ```Donate Me```
 
-- [`Binance`](https://i.ibb.co/W2gYn6S/binance.png)
-- [`PayPal`](https://www.paypal.me/josephxeon13)
-- [`GooglePay`](https://i.ibb.co/yQkqBS2/donate.png)
-- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
 
-## ```Bot Support Group Chats```
-
-- [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
-- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
-- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
-
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD11/fork)
-
-## `Generate Pair Code For Session`
-[![Xeon](https://img.shields.io/badge/Xeon-Pair%20Code%20Generator-Pink?labelColor=Green&style=plastic&logo=Heroku&logoColor=White)](https://xeon-pair-code-2ec7a562198d.herokuapp.com/)
 
 ## ` BUILDPACKS`
 
